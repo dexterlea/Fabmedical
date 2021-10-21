@@ -1,6 +1,6 @@
 host="fabmedical-474162.documents.azure.com"
 username="fabmedical-474162"
-password=""
+password="NTrdz8ahew0epkkEH6tWmDtsrY40krnQuNv4jmjMogZH1u22OVBJZQFV1lVHt1rp2L0kVvWHUqWA19kz0lFKXw=="
 dbname="contentdb"
 port="10255"
 
